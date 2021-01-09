@@ -34,19 +34,19 @@ With the 'switch' button (ring finger) you can even have another 12 buttons set.
 
 ## SET : office
 
-|                     |                     |                |
-| ------------------- | ------------------- | -------------- |
-| Copy  (Ctrl+c)      | New tab  (Ctrl+t)   | Undo  (Ctrl+z) |
-| Paste  (Ctrl+v)     | Close tab  (Ctrl+w) | Redo  (Ctrl+y) |
-| Duplicate  (Ctrl+D) | Find  (Ctrl+f)      | Open  (Ctrl+o) |
-| Enter  (Enter)      | Find next  (F3)     | Save  (Ctrl+s) |
+|                            |                            |                       |
+| -------------------------- | -------------------------- | --------------------- |
+| **Copy**      <br>(Ctrl+c) | **New tab**   <br>(Ctrl+t) | **Undo** <br>(Ctrl+z) |
+| **Paste**     <br>(Ctrl+v) | **Close tab** <br>(Ctrl+w) | **Redo** <br>(Ctrl+y) |
+| **Duplicate** <br>(Ctrl+d) | **Find**      <br>(Ctrl+f) | **Open** <br>(Ctrl+o) |
+| **Enter**     <br>(Enter)  | **Find next** <br>(F3)     | **Save** <br>(Ctrl+s) |
 
 ## SET : coding (visual)
 
-|                     |                     |                |
-| ------------------- | ------------------- | -------------- |
-| Copy  (Ctrl+c)      | New tab  (Ctrl+t)   | Undo  (Ctrl+z) |
-| Paste  (Ctrl+v)     | Close tab  (Ctrl+w) | Redo  (Ctrl+y) |
-| Duplicate  (Ctrl+D) | Find  (Ctrl+f)      | Open  (Ctrl+o) |
-| Enter  (Enter)      | Find next  (F3)     | Save  (Ctrl+s) |
+|                            |                            |                       |
+| -------------------------- | -------------------------- | --------------------- |
+| **Copy**      <br>(Ctrl+c) | **New tab**   <br>(Ctrl+t) | **Undo** <br>(Ctrl+z) |
+| **Paste**     <br>(Ctrl+v) | **Close tab** <br>(Ctrl+w) | **Redo** <br>(Ctrl+y) |
+| **Duplicate** <br>(Ctrl+d) | **Find**      <br>(Ctrl+f) | **Open** <br>(Ctrl+o) |
+| **Enter**     <br>(Enter)  | **Find next** <br>(F3)     | **Save** <br>(Ctrl+s) |
 
