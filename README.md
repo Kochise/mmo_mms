@@ -18,7 +18,6 @@ Prefer models with on-board memory so you can use the profiles everywhere :<br>
 | -- | -- | -- |
 | 1  | 2  | 3  |
 | 4  | 5  | 6  |
-| -- | -- | -- |
 | 7  | 8  | 9  |
 | 10 | 11 | 12 |
 
@@ -28,7 +27,6 @@ Prefer models with on-board memory so you can use the profiles everywhere :<br>
 | --- | --- | --- |
 | G9  | G10 | G11 |
 | G12 | G13 | G14 |
-| --- | --- | --- |
 | G15 | G16 | G17 |
 | G18 | G19 | G20 |
 
@@ -54,8 +52,8 @@ Some alternative shortcuts also use 'Shift', but you can press this single key w
 | **Break toggle**      <br>(F9) | **Break list**      <br>(Ctrl+Alt+B) | **Break delete** <br>(Ctrl+Shift+F9) |
 | **Callstack** <br>(Ctrl+Alt+C) | **Registers**       <br>(Ctrl+Alt+G) | **Disassembly**     <br>(Ctrl+Alt+D) |
 
-**Declaration** <br>(Ctrl+F12)
-**Definition**  <br>(F12)
+**Declaration** (Ctrl+F12)<br>
+**Definition**  (F12)<br>
 
 ## SET : graphic (Inkscape, RGB 102,34,0 #662200)
 
