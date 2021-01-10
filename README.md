@@ -36,11 +36,10 @@ With the 'switch' button (ring finger) you can even have another 12 buttons set.
 
 ## usage : office (default, RGB off to save LED)
 
-|                             |                            |                 ----       |
+|                             |                            |                            |
 | --------------------------- | -------------------------- | -------------------------- |
 | **Copy**     <br>(Ctrl+C)   | **Duplicate** <br>(Ctrl+D) | **Paste**     <br>(Ctrl+V) |
 | **Undo**     <br>(Ctrl+Z)   | **Enter**     <br>(Enter)  | **Redo**      <br>(Ctrl+Y) |
-| --------------------------- | -------------------------- | -------------------------- |
 | **Find**     <br>(Ctrl+F)   | **Find next** <br>(F3)     | **Replace**   <br>(Ctrl+H) |
 | **Previous** <br>(Alt+Left) | **New tab**   <br>(Ctrl+T) | **Close tab** <br>(Ctrl+W) |
 
@@ -52,7 +51,6 @@ Some alternative shortcuts also use 'Shift', but you can press this single key w
 | ------------------------------ | ------------------------------------ | ------------------------------------ |
 | **Debug start**       <br>(F5) | **Debug pause** <br>(Ctrl+Alt+Break) | **Debug stop**        <br>(Shift+F5) |
 | **Step over**        <br>(F10) | **Step into**             <br>(F11)  | **Step out**         <br>(Shift+F11) |
-| ------------------------------ | ------------------------------------ | ------------------------------------ |
 | **Break toggle**      <br>(F9) | **Break list**      <br>(Ctrl+Alt+B) | **Break delete** <br>(Ctrl+Shift+F9) |
 | **Callstack** <br>(Ctrl+Alt+C) | **Registers**       <br>(Ctrl+Alt+G) | **Disassembly**     <br>(Ctrl+Alt+D) |
 
