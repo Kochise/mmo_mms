@@ -29,13 +29,13 @@ Prefer models with on-board memory so you can use the profiles everywhere :<br>
 | 7  | 8  | 9  |
 | 10 | 11 | 12 |
 
-| profile | color          | set |
-| ------- | -------------- | --- |
-| 1       | red / user1    |     |
-| 2       | blue / user2   |     |
-| 3       | green / user3  |     |
-| 4       | purple / user4 |     |
-| 5       | yellow / user5 |     |
+| profile | color          | usage  |
+| ------- | -------------- | ------ |
+| 1       | red / user1    | office |
+| 2       | blue / user2   | coding |
+| 3       | green / user3  |        |
+| 4       | purple / user4 |        |
+| 5       | yellow / user5 |        |
 
 Profile color displays for 3s (full dim, no effect) then switch to the user settings (rgb, dim, effect).
 
@@ -53,14 +53,14 @@ Profile color displays for 3s (full dim, no effect) then switch to the user sett
 | G15 | G16 | G17 |
 | G18 | G19 | G20 |
 
-| profile | color | set |
-| ------- | ----- | --- |
-| 1       | user1 |     |
-| 1"      | user1 |     |
-| 2       | user2 |     |
-| 2"      | user2 |     |
-| 3       | user3 |     |
-| 3"      | user3 |     |
+| profile | color | usage  |
+| ------- | ----- | ------ |
+| 1       | user1 | office |
+| 1"      | user1 |        |
+| 2       | user2 | coding |
+| 2"      | user2 |        |
+| 3       | user3 |        |
+| 3"      | user3 |        |
 
 With the 'switch' button (ring finger) you can even have another 12 buttons set. Insane.
 
