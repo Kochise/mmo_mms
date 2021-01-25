@@ -12,7 +12,15 @@ Depends on your mouse software.<br>
 In general, all "gaming" mouses with 12 buttons pad.<br>
 Prefer models with on-board memory so you can use the profiles everywhere :<br>
 
-* UtechSmart Venus (good enough for the price)
+* UtechSmart Venus
+
+- good enough for the price
+- one id color per profile (useful to id the profile)
+- no tilt middle button
+- "Fire" button (can be programmed to anything)
+- PROFILE CYLE button is under the mouse
+- configure DPI UP as PROFILE CYLE
+- configure DPI DOWN as DPI CYCLE
 
 |    |    |    |
 | -- | -- | -- |
@@ -21,7 +29,22 @@ Prefer models with on-board memory so you can use the profiles everywhere :<br>
 | 7  | 8  | 9  |
 | 10 | 11 | 12 |
 
-* Logitech G600 (good but expensive in EU, buttons fails after a while)
+| profile | color          | set |
+| ------- | -------------- | --- |
+| 1       | red / user1    |     |
+| 2       | blue / user2   |     |
+| 3       | green / user3  |     |
+| 4       | purple / user4 |     |
+| 5       | yellow / user5 |     |
+
+Profile color displays for 3s (full dim, no effect) then switch to the user settings (rgb, dim, effect).
+
+* Logitech G600
+
+- good but expensive in EU
+- buttons fails after a while (middle click, matrix)
+- braided cable gets shredded by the velcro
+- DPI CYCLE button cannot be programmed
 
 |     |     |     |
 | --- | --- | --- |
@@ -29,6 +52,15 @@ Prefer models with on-board memory so you can use the profiles everywhere :<br>
 | G12 | G13 | G14 |
 | G15 | G16 | G17 |
 | G18 | G19 | G20 |
+
+| profile | color | set |
+| ------- | ----- | --- |
+| 1       | user1 |     |
+| 1"      | user1 |     |
+| 2       | user2 |     |
+| 2"      | user2 |     |
+| 3       | user3 |     |
+| 3"      | user3 |     |
 
 With the 'switch' button (ring finger) you can even have another 12 buttons set. Insane.
 
@@ -55,7 +87,7 @@ Some alternative shortcuts also use 'Shift', but you can press this single key w
 **Declaration** (Ctrl+F12)<br>
 **Definition**  (F12)<br>
 
-## SET : graphic (Inkscape, RGB 102,34,0 #662200)
+## usage : graphic (Inkscape, RGB 102,34,0 #662200)
 
 
 
